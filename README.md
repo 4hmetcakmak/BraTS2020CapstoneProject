@@ -70,7 +70,8 @@ I tried many different models and you can find the ones I tried on my github pro
 
 ![PredictModel26-6layers](https://user-images.githubusercontent.com/95977791/184477465-4e8b7723-0a82-4335-ab59-fb420cd35c34.png)
 
-Evaluate on test data 45/45 [==============================] - 61s 1s/step - loss: 0.0296 - accuracy: 0.9905 - mean_io_u_6: 0.8138 - dice_coef: 0.4243 - precision: 0.9938
+Evaluate on test data 45/45 [==============================] - 62s 1s/step - loss: 0.0311 - accuracy: 0.9895 - mean_io_u_1: 0.8315 - dice_coef: 0.5045 - precision: 0.9911
+
 
 [Here is the work i referenced](https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net/notebook?scriptVersionId=61189746) 
 [Also you can find his profile](https://github.com/rastislavkopal)

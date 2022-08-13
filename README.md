@@ -41,7 +41,7 @@ I'm starting to think that Flair, t1ce and t2 images are more efficient at expla
 
 As a result of the literature review, i first wanted to build a Deep Learning model. In the studies on the same data set, i saw that the U-net architecture was used a lot, especially in segmentation studies, and i started by building a simple model on it (details will be given in the presentation). First, i built a model over all image formats, and then I reduced the number of variables to only flair and t1ce, as i mentioned above. You can find detailed information about the U-net architecture i use and the loss functions i use below.
 “The u-net is convolutional network architecture for fast and precise segmentation of images. Up to now it has outperformed the prior best method (a sliding-window convolutional network) on the ISBI challenge for segmentation of neuronal structures in electron microscopic stacks. It has won the Grand Challenge for Computer-Automated Detection of Caries in Bitewing Radiography at ISBI 2015, and it has won the Cell Tracking Challenge at ISBI 2015 on the two most challenging transmitted light microscopy categories (Phase contrast and DIC microscopy) by a large margin (See also our annoucement).” [Check Here] (https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
-![U-net] (C:\Users\4hmet\Desktop\CapstoneProject\u-net-architecture.png "U-net architecture")
+![U-net] (C:\Users\4hmet\Desktop\CapstoneProject\u-net-architecture.png)
 
 
 You can find here more things about U-net. [here] (https://github.com/christianversloot/machine-learning-articles/blob/3995782892d6f34b70c139265acdfa1c7b9ee07e/u-net-a-step-by-step-introduction.md) 

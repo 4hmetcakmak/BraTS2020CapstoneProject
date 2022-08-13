@@ -72,5 +72,5 @@ I tried many different models and you can find the ones I tried on my github pro
 
 Evaluate on test data 45/45 [==============================] - 61s 1s/step - loss: 0.0296 - accuracy: 0.9905 - mean_io_u_6: 0.8138 - dice_coef: 0.4243 - precision: 0.9938
 
-[Here is the work I referenced](https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net/notebook?scriptVersionId=61189746) 
+[Here is the work i referenced](https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net/notebook?scriptVersionId=61189746) 
 [Also you can find his profile](https://github.com/rastislavkopal)

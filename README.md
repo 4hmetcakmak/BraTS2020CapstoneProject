@@ -1,5 +1,5 @@
 # BraTS2020CapstoneProject
-The dataset of my project, which i prepared as a graduation project of Bootcamp, was taken from the Kaggle site.
+The dataset of my project, which i prepared as a graduation project of Bootcamp, was taken from the Kaggle site. You can find the models I tried before in png formats here.
  
 
 # Brain Tumor Segmentation
